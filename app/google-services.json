@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855355983526",
+    "firebase_url": "https://reda-3d04a.firebaseio.com",
+    "project_id": "reda-3d04a",
+    "storage_bucket": "reda-3d04a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855355983526:android:ec05a3115715a297",
+        "android_client_info": {
+          "package_name": "com.example.reda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855355983526-mfpipshpld9187emlb0jonvj1mnri5ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reda",
+            "certificate_hash": "3cf6aa2a046d18eb0131de749a4384fdbc0111bb"
+          }
+        },
+        {
+          "client_id": "855355983526-rhlc76on4bhvm7j5jga1amitb4b9oqd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsV6eIIIPYXRi-7htwYZNtTQJwimzirBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855355983526-rhlc76on4bhvm7j5jga1amitb4b9oqd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
